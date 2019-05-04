@@ -39,6 +39,8 @@ if your have a Windows mining machine with IP 192.168.0.8, your file should look
 </ul>
 <h4>To change your Hlor details edit hlor.conf or just delete it.</h4>
 
+============================================================
+
 Hlor Addon does not affect your miner's original hashrate. Please be aware that we do not have a developer fee. NO DEV FEE for all miners.
 
 

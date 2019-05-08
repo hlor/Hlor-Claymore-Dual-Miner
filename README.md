@@ -41,6 +41,7 @@ if your have a Windows mining machine with IP 192.168.0.8, your file should look
 
 ============================================================
 
-Hlor Addon does not affect your miner's original hashrate. Please be aware that we do not have a developer fee. NO DEV FEE for all miners.
+Hlor Addon does not affect your miner's original hashrate. Please be aware that we do not have a developer fee. </br>
+<strong>NO DEV FEE for all miners</strong>
 
 
